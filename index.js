@@ -1,4 +1,6 @@
-console.log('Hello Boolean');
+const persona = 'Andrea';
+
+console.log(`Hello ${persona}`);
 
 
 
